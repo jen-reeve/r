@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jen-reeve/r-for-outreach/master?urlpath=rstudio)
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jen-reeve/r-for-outreach/master?urlpath=shiny/app/)
+RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/jen-reeve/r-for-outreach/master?urlpath=shiny/app)
 
 Binder supports using R and RStudio, with libraries pinned to a specific 
 snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
