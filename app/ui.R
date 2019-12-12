@@ -1,6 +1,6 @@
 library(shiny)
 
-ui <- fluidPage(
+fluidPage(
 
   # App title ----
   titlePanel("Hello Shiny!"),
