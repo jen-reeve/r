@@ -1,6 +1,6 @@
 library(shiny)
 
-server <- function(input, output) {
+function(input, output) {
 
   # Histogram of the Old Faithful Geyser Data ----
   # with requested number of bins
