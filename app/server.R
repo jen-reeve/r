@@ -1,3 +1,5 @@
+library(shiny)
+
 server <- function(input, output) {
 
   # Histogram of the Old Faithful Geyser Data ----
